@@ -1,3 +1,2 @@
 # todolist
-
-https://github.com/ignaciofuenzalida/todolist/deployments/github-pages
+Deploy: https://ignaciofuenzalida.github.io/todolist/
